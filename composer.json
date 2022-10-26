@@ -1,0 +1,30 @@
+{
+  "name": "wumm/verify",
+  "description": "测试开发 composer",
+  "autoload": {
+    "psr-4": {
+      "PackageTest\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "PackageTest\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "吴玉川",
+      "email": "wuchuan.wu@liankaa.com"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "测试1",
+    "测试2"
+  ],
+  "homepage": "https://github.com/packageTest",
+  "require": {
+    "php": ">=5.6.0"
+  }
+}
+
