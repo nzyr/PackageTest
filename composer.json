@@ -1,5 +1,5 @@
 {
-  "name": "wumm/package-test",
+  "name": "nzyr/package-test",
   "description": "测试开发 composer",
   "autoload": {
     "psr-4": {
