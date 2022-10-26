@@ -25,24 +25,24 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
-    'name' => 'wumm/oneinit',
+    'reference' => 'e57d223b5ebb9b2fa367bc32b192cac1321ed2c9',
+    'name' => 'wumm/package-test',
   ),
   'versions' => 
   array (
-    'wumm/oneinit' => 
+    'wumm/package-test' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => 'e57d223b5ebb9b2fa367bc32b192cac1321ed2c9',
     ),
   ),
 );
